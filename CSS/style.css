@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Babylonica&family=Dancing+Script:wght@600&display=swap');
+
 
 * {
     margin: 0;
@@ -25,7 +25,6 @@ body{
     background-color: rgba(229, 197, 159, 0.703);
     font-size: 2rem;
     text-align: center;
-    font-family: 'Dancing Script', cursive;
     position: relative;
     top: -100px;
     animation: black 3s ease-in-out forwards;
